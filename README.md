@@ -6,9 +6,9 @@ Please see the documentation included in the Docs folder
 
 Dependencies: (all included ./Third-Party)
 
-lkJSON Library: https://sourceforge.net/projects/lkjson/
-Synapse Library: https://sourceforge.net/p/synalist/code/HEAD/tree/trunk/
-dathox Generics.Collections:  https://github.com/dathox/generics.collections
+- lkJSON Library: https://sourceforge.net/projects/lkjson/
+- Synapse Library: https://sourceforge.net/p/synalist/code/HEAD/tree/trunk/
+- dathox Generics.Collections:  https://github.com/dathox/generics.collections
 
 Please note that the REST Server requires HTTPS protocol. Synapse implements SSL in a plugin-based architecture
 
@@ -25,7 +25,7 @@ If you get an `ESynapseException` with an ErrorCode 500 you didn't setup Synapse
 
 For a Delphi version, please go to https://github.com/ortuagustin/Delphi-Utils
 
-# Español:
+# EspaÃ±ol:
 
 ## Implementacion que encapsula consultas al padron de contribuyentes de Argentina, utilizando la API REST que expone la AFIP
 
@@ -33,9 +33,9 @@ Documentacion oficial incluida en el directorio ./Docs
 
 Dependencias (todas incluidas en el directorio ./Third-Party)
 
-Biblioteca lkJSON: https://sourceforge.net/projects/lkjson/
-Biblioteca Synapse: https://sourceforge.net/p/synalist/code/HEAD/tree/trunk/
-dathox Generics.Collections:  https://github.com/dathox/generics.collections
+- Biblioteca lkJSON: https://sourceforge.net/projects/lkjson/
+- Biblioteca Synapse: https://sourceforge.net/p/synalist/code/HEAD/tree/trunk/
+- dathox Generics.Collections:  https://github.com/dathox/generics.collections
 
 El servidor REST requiere que se establezca una conexion mediante el protocolo HTTPS
 
